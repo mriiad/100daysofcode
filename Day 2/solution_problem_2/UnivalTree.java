@@ -11,9 +11,9 @@ For example, the following tree has 5 unival subtrees:
    1   0
   / \
  1   1
- 
- */ 
 
+ * @author m-riad
+ */
 public class UnivalTree {
     public int val;
     public UnivalTree left; 
