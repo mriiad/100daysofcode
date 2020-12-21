@@ -8,9 +8,7 @@ import java.util.List;
 import org.junit.Test;
 
 /**
- * 
  * @author m-riad
- *
  */
 public class Solution_AlgoExpert_Problem_3 {
 
