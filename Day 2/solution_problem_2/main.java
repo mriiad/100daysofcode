@@ -1,5 +1,8 @@
 package main.problem_2;
 
+/**
+ * @author m-riad
+ */
 public class Problem_2 {
 
     public static int countNumberOfUnivalSubTrees(UnivalTree univalTree) {
