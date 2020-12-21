@@ -3,6 +3,9 @@ package main;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author m-riad
+ */
 public class Problem_1 {
 
     public static boolean equalsToK(List<Integer> numbers, int k) {
