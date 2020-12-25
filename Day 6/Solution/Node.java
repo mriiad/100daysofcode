@@ -1,4 +1,4 @@
-package problem_66;
+package main;
 
 /**
  * @author m-riad
