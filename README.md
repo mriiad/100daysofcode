@@ -1,6 +1,6 @@
 # 100daysofcode
 
-Here I'll upload the solutions of some problems that were asked, during job interviews, by huge companies like GOOGLE, FACEBOOK, AMAZON, etc.
+Here I'll upload the solutions of some problems that were asked, during job interviews, by huge tech companies like GOOGLE, FACEBOOK, AMAZON, etc.
 
 Solutions will be done using Java and JavaScript.
 
